@@ -12,8 +12,8 @@
 - Swift
 - SwiftUI
 - UIKit
-- 💾CoreData
--📍Mapkit
+- 💾 CoreData
+-📍 Mapkit
 - Combine 
 - 📡 API REST
 <p align= "center">
