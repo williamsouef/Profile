@@ -8,8 +8,12 @@
 - 📱 I'm working on the App I published on the Apple Store [Here is the link of my App](https://apps.apple.com/us/app/fitsafe/id1673039363) 
 <br>
 
-## Technologies Used
+## Skills 
 - Swift
 - SwiftUI
-- CoreData
+- UIKit
+- 💾CoreData
+-📍Mapkit
+- Combine 
+- 📡 API REST
 <p align= "center">
