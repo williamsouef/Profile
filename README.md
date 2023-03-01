@@ -7,3 +7,9 @@
 
 - 📱 I'm working on the App I published on the Apple Store [Here is the link of my App](https://apps.apple.com/us/app/fitsafe/id1673039363) 
 <br>
+
+## Technologies Used
+- Swift
+- SwiftUI
+- CoreData
+<p align= "center">
