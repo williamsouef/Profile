@@ -10,10 +10,13 @@
 
 ## Skills 
 - Swift
+- ObjC
 - SwiftUI
 - UIKit
 - 📍 Mapkit
 - 💾 CoreData
 - 📡 API REST
-- Combine 
+- Firebase
+- Scrum Agile
+  
 <p align= "center">
